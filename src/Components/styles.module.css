@@ -1,0 +1,31 @@
+.card {
+    width: 30%;
+    height: 250px;
+    margin: auto;
+    border: 1px solid;
+    border-radius: 5px;
+    background-color: red;
+    color: #fff;
+}
+
+.visa {
+    text-align: right;
+    font-size: 24px;
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+
+.icon {
+    width: 40px;
+}
+
+.name, .cardno {
+    margin-top: 10px;
+    text-align: left;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.flex {
+    width: 100%;
+}
